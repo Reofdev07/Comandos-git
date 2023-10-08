@@ -6,3 +6,6 @@
 * git config --global user.email = email
 * git config --global core.editor "code --await" 
 * git config --global -e
+
+
+## gitIgnore 

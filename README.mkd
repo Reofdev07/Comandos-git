@@ -4,12 +4,8 @@
 
 * git config --global user.name = name
 * git config --global user.email = email
-* git config --global core.editor "code --await" 
+* git config --global core.editor "code --await" k
 * git config --global -e
-
-
-## gitIgnore 
-
 
 ## git commands
 * git add . or <file name>
@@ -17,8 +13,12 @@
 * git status 
 * git status -s
 * git diff
-* git log
+* git log 
 * git log --oneline 
+* git tag  etiqueta una version estabable o un  commit 
+* git switch  cambia de ramas de forma local  no permite cambiar entre commit, mientras checkout si
+* git stash commit temporal que nadie se entera en la local
+* git stash pop te permite volver al commit donde quedaste
 
 
 

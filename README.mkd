@@ -19,6 +19,8 @@
 * git switch  cambia de ramas de forma local  no permite cambiar entre commit, mientras checkout si
 * git stash commit temporal que nadie se entera en la local
 * git stash pop te permite volver al commit donde quedaste
+* git reset 
+* git reset --hard 
 
 
 
